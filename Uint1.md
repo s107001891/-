@@ -60,7 +60,7 @@ shy(adj)害羞的
 
 quiet(adj)安靜的
 
-
+noisy(adj)吵
 
 
 
